@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zuixianmeng.top/"/>
-  <updated>2019-05-24T13:19:12.380Z</updated>
+  <updated>2019-05-26T10:07:54.397Z</updated>
   <id>https://www.zuixianmeng.top/</id>
   
   <author>
@@ -17,37 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇</title>
-    <link href="https://www.zuixianmeng.top/2019/05/24/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
-    <id>https://www.zuixianmeng.top/2019/05/24/第一篇/</id>
-    <published>2019-05-24T13:17:08.000Z</published>
-    <updated>2019-05-24T13:19:12.380Z</updated>
+    <title>多线程</title>
+    <link href="https://www.zuixianmeng.top/2019/05/26/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    <id>https://www.zuixianmeng.top/2019/05/26/多线程/</id>
+    <published>2019-05-26T10:02:05.000Z</published>
+    <updated>2019-05-26T10:07:54.397Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://www.zuixianmeng.top/2019/05/24/hello-world/"/>
-    <id>https://www.zuixianmeng.top/2019/05/24/hello-world/</id>
-    <published>2019-05-24T05:47:17.178Z</published>
-    <updated>2019-05-24T05:47:17.178Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="多线程"><a href="#多线程" class="headerlink" title="多线程"></a>多线程</h1><h2 id="多线程的定义"><a href="#多线程的定义" class="headerlink" title="多线程的定义"></a>多线程的定义</h2><ul><li>指的是这个程序（一个进程）运行时产生了不止一个线程</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h1 id=&quot;多线程&quot;&gt;&lt;a href=&quot;#多线程&quot; class=&quot;headerlink&quot; title=&quot;多线程&quot;&gt;&lt;/a&gt;多线程&lt;/h1&gt;&lt;h2 id=&quot;多线程的定义&quot;&gt;&lt;a href=&quot;#多线程的定义&quot; class=&quot;headerlink&quot; title=&quot;多线程的定义&quot;&gt;&lt;
       
     
     </summary>
     
+    
+      <category term="多线程" scheme="https://www.zuixianmeng.top/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
   </entry>
   
